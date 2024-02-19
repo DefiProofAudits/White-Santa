@@ -4,7 +4,7 @@ The White-Santa project is a collaborative effort to create a platform for shari
 
 
 ## Privacy and Verification Notice:
-Four members of the WhitePepe team have voluntarily submitted their personal details, which have been thoroughly verified for authenticity.
+Four members of the White-Santa team have voluntarily submitted their personal details, which have been thoroughly verified for authenticity.
 This commitment to transparency and accountability underscores our dedication to maintaining trust within our community. Rest assured,
 we take privacy and security seriously, and all verified information is handled with the utmost care and confidentiality.
 
